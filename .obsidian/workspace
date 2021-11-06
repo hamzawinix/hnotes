@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "83e1bab87822c602",
+    "type": "split",
+    "children": [
+      {
+        "id": "8472a454f38e2bcb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HTB/tracks/Intro to Binary Exploitation/Jeeves.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "310f081c00e2ac99",
+    "type": "split",
+    "children": [
+      {
+        "id": "31717a4339e70428",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88025a0e2895e2d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1da78ac3109c377a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aea1c07dee648c67",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc3e40f55cdddd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c106e04b81c4da3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTB/tracks/Intro to Binary Exploitation/Jeeves.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8472a454f38e2bcb",
+  "lastOpenFiles": [
+    "HTB/tracks/Intro to Binary Exploitation/Jeeves.md",
+    "Reverse engineering/r2.md",
+    "Pasted image 20211105230617.png",
+    "Pasted image 20211105230719.png",
+    "Pasted image 20211105175353.png",
+    "Pasted image 20211105170430.png",
+    "attachments/1*D0OL89ACzJdBG05BToGj-Q.png",
+    "Cheat sheets/nmap.md",
+    "Untitled 1.md",
+    "Cheat sheets/tmux/general tmux cheat sheet.md"
+  ]
+}
