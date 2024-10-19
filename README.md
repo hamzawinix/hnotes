@@ -1,1 +1,1 @@
-Hackign Notes in obsidian canvas format
+Hacking notes in obsidian canvas format
